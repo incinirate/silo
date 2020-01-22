@@ -1,0 +1,12 @@
+{
+  "name": "svr",
+  "version": "1.0.0",
+  "description": "Backend server for silo",
+  "main": "index.ts",
+  "author": "Incin",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}
